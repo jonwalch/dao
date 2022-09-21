@@ -1,0 +1,7 @@
+.idea
+.env
+cache/
+lcov.info
+out/
+report/
+broadcast
